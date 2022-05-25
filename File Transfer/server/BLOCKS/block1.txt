@@ -1,0 +1,4 @@
+hash: 3c297241ded7d2e9e78c148ac9ac9f331b42e8da0a3773a9af18ed68f2a038fa
+prev hash: 
+
+genesis --> admin: 1000 PP
